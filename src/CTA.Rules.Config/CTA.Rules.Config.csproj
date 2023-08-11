@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Codelyzer.Analysis" Version="2.7.6-alpha-g61536c2540" />
-    <PackageReference Include="Codelyzer.Analysis.Model" Version="2.7.6-alpha-g61536c2540" />
+    <PackageReference Include="Codelyzer.Analysis.Model" Version="2.7.7" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
